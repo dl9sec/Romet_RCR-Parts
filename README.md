@@ -10,7 +10,7 @@ The parts should fit to all brands identically constructed like the ZHEJANG CHAN
 * Romet RCR 125 (Poland)
 * LuXXon Twinrider 125 (Germany)
 * Bexx 125 Funrider (France)
-* Mitt 125 MB (Spain)
+* Mitt 125 MB EFI (Spain)
 * AJS Highway Star 125 (UK)
 
 I printed the parts with black TPU with 0,2mm layer height/100% infill/0,4mm nozzle.
